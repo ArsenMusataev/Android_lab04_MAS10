@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lec00">    Содержание</string>
+    <string name="lec01">1.Классификация телевизоров</string>
+    <string name="lec11">2.Роль телевизора в развитии электроники</string>
+    <string name="lec15">3.Безопасность телевизоров</string>
+    <string name="prog">     Программы</string>
+
+</resources>
